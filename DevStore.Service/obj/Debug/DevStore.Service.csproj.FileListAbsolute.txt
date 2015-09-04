@@ -1,0 +1,10 @@
+C:\Users\antonio.santos\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Service\bin\Debug\DevStore.Service.dll
+C:\Users\antonio.santos\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Service\bin\Debug\DevStore.Service.pdb
+C:\Users\antonio.santos\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Service\bin\Debug\DevStore.Entity.dll
+C:\Users\antonio.santos\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Service\bin\Debug\Octokit.dll
+C:\Users\antonio.santos\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Service\bin\Debug\DevStore.Entity.pdb
+C:\Users\antonio.santos\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Service\bin\Debug\Octokit.pdb
+C:\Users\antonio.santos\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Service\bin\Debug\Octokit.xml
+C:\Users\antonio.santos\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Service\obj\Debug\DevStore.Service.csprojResolveAssemblyReference.cache
+C:\Users\antonio.santos\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Service\obj\Debug\DevStore.Service.dll
+C:\Users\antonio.santos\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Service\obj\Debug\DevStore.Service.pdb

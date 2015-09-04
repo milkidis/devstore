@@ -1,0 +1,4 @@
+C:\Users\antonio.santos\documents\visual studio 2013\Projects\DevStore\DevStore.Utils\bin\Debug\DevStore.Utils.dll
+C:\Users\antonio.santos\documents\visual studio 2013\Projects\DevStore\DevStore.Utils\bin\Debug\DevStore.Utils.pdb
+C:\Users\antonio.santos\documents\visual studio 2013\Projects\DevStore\DevStore.Utils\obj\Debug\DevStore.Utils.dll
+C:\Users\antonio.santos\documents\visual studio 2013\Projects\DevStore\DevStore.Utils\obj\Debug\DevStore.Utils.pdb

@@ -1,0 +1,6 @@
+C:\Users\antonio.santos\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Web\bin\DevStore.Web.dll.config
+C:\Users\antonio.santos\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Web\bin\DevStore.Web.dll
+C:\Users\antonio.santos\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Web\bin\DevStore.Web.pdb
+C:\Users\antonio.santos\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Web\obj\Debug\DevStore.Web.csprojResolveAssemblyReference.cache
+C:\Users\antonio.santos\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Web\obj\Debug\DevStore.Web.dll
+C:\Users\antonio.santos\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Web\obj\Debug\DevStore.Web.pdb

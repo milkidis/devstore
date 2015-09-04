@@ -1,0 +1,4 @@
+C:\Users\antonio.santos\Documents\Visual Studio 2013\Projects\DevStore\DevStore.SessionState\bin\Debug\DevStore.SessionState.dll
+C:\Users\antonio.santos\Documents\Visual Studio 2013\Projects\DevStore\DevStore.SessionState\bin\Debug\DevStore.SessionState.pdb
+C:\Users\antonio.santos\Documents\Visual Studio 2013\Projects\DevStore\DevStore.SessionState\obj\Debug\DevStore.SessionState.dll
+C:\Users\antonio.santos\Documents\Visual Studio 2013\Projects\DevStore\DevStore.SessionState\obj\Debug\DevStore.SessionState.pdb

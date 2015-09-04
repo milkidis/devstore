@@ -1,0 +1,5 @@
+C:\Users\antonio.santos\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Entity\bin\Debug\DevStore.Entity.dll
+C:\Users\antonio.santos\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Entity\bin\Debug\DevStore.Entity.pdb
+C:\Users\antonio.santos\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Entity\obj\Debug\DevStore.Entity.csprojResolveAssemblyReference.cache
+C:\Users\antonio.santos\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Entity\obj\Debug\DevStore.Entity.dll
+C:\Users\antonio.santos\Documents\Visual Studio 2013\Projects\DevStore\DevStore.Entity\obj\Debug\DevStore.Entity.pdb
